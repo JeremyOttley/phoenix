@@ -135,13 +135,13 @@ Don't forget to make a PR if you fixed something or implemented something cool :
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⇪ + `</kbd> | Focus to or open [Notable](https://notable.md)|
+| <kbd>⇪ + `</kbd> | Focus to or open [Obsidian](https://obsidian.md/)|
 | <kbd>⇪ + C</kbd> | Focus to or open [Chrome](https://www.google.com/chrome)|
 | <kbd>⇪ + D</kbd> | Focus to or open [Chrome Developer Tools](https://developer.chrome.com/devtools)|
 | <kbd>⇪ + V</kbd> | Focus to or open [Visual Studio Code](https://code.visualstudio.com)|
 | <kbd>⇪ + F</kbd> | Focus to or open Finder|
 | <kbd>⇪ + T</kbd> | Focus to or open [iTerm](http://iterm2.com)|
-| <kbd>⇪ + G</kbd> | Focus to or open [GitTower](https://www.git-tower.com/)|
+| <kbd>⇪ + G</kbd> | Focus to or open [MPV](https://mpv.io/)|
 
 ### Spaces
 
