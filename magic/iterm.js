@@ -13,6 +13,6 @@ function magiciTermOpen ( window ) {
 
   if ( !/iTerm/.test ( name ) || false ) return;
 
-  setFrame ( 'bottom-left', window );
+  setFrame ( 'bottom-right', window );
 
 }
