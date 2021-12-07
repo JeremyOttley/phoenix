@@ -113,7 +113,7 @@ function callbackiTerm ( isNewWindow ) {
 /* FOCUS */
 
 const focus = [
-  ['`', HYPER, ['Notable']],
+  ['`', HYPER, ['Obsidian']],
   ['c', HYPER, ['Google Chrome', false, /^(?!Developer Tools)/, /Picture in Picture/, launchChrome]],
   ['d', HYPER, ['Google Chrome', true, /(Developer Tools)|(chrome-devtools)/, /Picture in Picture/, launchDevTools]],
   ['v', HYPER, ['Code', false, false, false, launchVSC]],
@@ -121,7 +121,7 @@ const focus = [
   // ['t', HYPER, ['Hyper', false, false, false, launchHyper, callbackHyper]], //FIXME: Ugly, but since `windowDidOpen` won't trigger, at least now it will behave as expected
   ['t', HYPER, ['iTerm', false, false, false, launchiTerm, callbackiTerm]], //FIXME: Ugly, but since `windowDidOpen` won't trigger, at least now it will behave as expected
   ['f', HYPER, ['Finder', false, false, false, launchFinder]],
-  ['g', HYPER, ['Tower']]
+  ['g', HYPER, ['mpv']]
 ];
 
 setKeysHandler ( focusWindow, focus );
